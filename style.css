@@ -1,0 +1,21 @@
+
+*{
+    font-family: sans-serif;
+}
+
+
+#obj{
+    width:128px;
+    height: 128px;
+    position: absolute;
+    background-image: url('image/first.png');
+    border: none;
+    border-radius: 50%;
+  }
+
+  #prf{
+    font-size: 36px;
+    display:hidden;
+   text-align: center;
+    color:green;
+  }
